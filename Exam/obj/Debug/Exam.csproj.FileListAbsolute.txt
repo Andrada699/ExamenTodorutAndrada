@@ -1,0 +1,2 @@
+/Users/andradatodorut/Projects/Exam/Exam/obj/Debug/Exam.csprojAssemblyReference.cache
+/Users/andradatodorut/Projects/Exam/Exam/obj/Debug/Exam.csproj.CoreCompileInputs.cache
